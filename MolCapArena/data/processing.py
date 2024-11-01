@@ -101,7 +101,7 @@ def smiles_to_data(
     smiles: str, y: torch.Tensor = None, mol_features: torch.Tensor = None
 ):
     """
-    GNEprop-style featurizer for SMILES
+    Featurizer for SMILES
 
     :param smiles:
     :param y:

@@ -1,6 +1,6 @@
 import scipy.spatial
 
-from GNEpropV2.data.data import MolecularDataset, index_predetermined_split
+from MolCapArena.data.processing import MolecularDataset, index_predetermined_split
 import pickle
 
 import pandas as pd
@@ -14,8 +14,6 @@ from tqdm import tqdm
 all_smiles = set()
 
 
-from GNEpropV2.data.data import MolecularDataset, index_predetermined_split
-import pickle
 
 
 class BenchmarkDataset:
