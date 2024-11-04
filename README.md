@@ -1,5 +1,5 @@
 # MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction
-Associated repository for "[MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction](https://arxiv.org/abs/)".
+Associated repository for "[MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction](https://arxiv.org/abs/2411.00737)".
 
 <p align="center">
 <img src="figure.png" width="70%">
@@ -155,11 +155,12 @@ Currently, adding a new dataset is not fully supported. The rough steps are as f
 ### Citation
 If you found our work useful, please cite:
 ```bibtex
-@article{edwards2024molcap-arena,
+@article{edwards2024molcaparena,
   title={MolCap-Arena: A Comprehensive Captioning Benchmark on Language-Enhanced Molecular Property Prediction},
   author={Edwards, Carl and Lu, Ziqing and Hajiramezanali, Ehsan and
 Biancalani, Tommaso and Ji, Heng and Scalia, Gabriele},
-  journal={arXiv preprint arXiv:2411.XXXXX},
+  journal={arXiv preprint arXiv:2411.00737},
+  url={https://arxiv.org/abs/2411.00737}
   year={2024}
 }
 ```
