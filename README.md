@@ -151,6 +151,9 @@ Currently, adding a new dataset is not fully supported. The rough steps are as f
 + [embeddings](https://drive.google.com/file/d/1DbhEkawsplArg6VFmkAQbjuuRiemjnSq/view?usp=sharing)
 + [splits](https://drive.google.com/file/d/1ep2-mg3G2kMKKEF3Bmd69OUuf2D8psvr/view?usp=sharing)
 
+Alternatively, files can be downloaded through Box:
+
++ [file folder](https://uofi.box.com/s/f25847nwc0sbw5lcjgxsgor66x95074d)
 
 ### Citation
 If you found our work useful, please cite:
